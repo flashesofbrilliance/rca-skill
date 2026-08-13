@@ -131,3 +131,8 @@ Full instructions live in [`SKILL.md`](./SKILL.md).
 ## License
 
 MIT. See [LICENSE](./LICENSE).
+---
+
+## Part of the ARCS family
+
+An open, MIT-licensed tool in the [flashesofbrilliance](https://github.com/flashesofbrilliance) / ARCS family — small, composable, provenance-carrying. The tools are open; the ARCS intelligence that orchestrates them is private.
