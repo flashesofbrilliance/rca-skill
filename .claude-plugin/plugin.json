@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rca",
+  "version": "0.1.0",
+  "description": "On-demand root-cause analysis for a specific error — diagnosed at the cause, not the symptom.",
+  "author": { "name": "flashesofbrilliance" },
+  "license": "MIT",
+  "repository": "https://github.com/flashesofbrilliance/rca-skill",
+  "keywords": ["arcs", "claude-code", "skill"]
+}
